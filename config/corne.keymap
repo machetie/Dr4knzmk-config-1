@@ -18,10 +18,6 @@
 #define SYM 5
 #define NAV 6
 
-// my own headers
-#include "keys_helper.h"
-#include "unicode_helper.h"
-#include "combos_helper.h"
 
 // ms timings for homerow mods for each side
 #define HOMEROW_TAPPING_TERM 280
