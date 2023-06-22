@@ -18,7 +18,10 @@
 #define SYM 5
 #define NAV 6
 
-
+// my own headers
+#include "keys_helper.h"
+#include "unicode_helper.h"
+#include "combos_helper.h"
 // ms timings for homerow mods for each side
 #define HOMEROW_TAPPING_TERM 280
 #define HOMEROW_QUICK_TAP 150 // ca. 10500/(relaxed typing speed)
